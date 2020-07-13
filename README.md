@@ -1,4 +1,5 @@
-Hi There. I'm AlBan
+Hi There 🙌
+I'm AlBan 🐶
 
 <div align=center>
 
