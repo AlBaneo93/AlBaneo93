@@ -5,9 +5,8 @@ Hi There. I'm AlBan
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falbaneo93)](https://hits.seeyoufarm.com)
 
 </div>
-<br>
 <div align=center>
-<table>
+<table style="float:left; border: 0px solid #FFFFFF">
 <tr>
 <td>
 
