@@ -4,8 +4,8 @@ Hi There 🙌, I'm AlBan 🐶
   
 <div align="center">
 
-  <a href="https://velog.io/@albaneo0724">
-  <img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github" />
+<a href="https://velog.io/@albaneo0724">
+  <img src="http://img.shields.io/badge/-Tech%20blog-12b886?style=for-the-badge&logo=vimeo&logoColor=white" />
 </a>
 
 <a href="mailto:albaneo0724@gmail.com">
